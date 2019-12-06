@@ -1,0 +1,47 @@
+body{
+    background-color: #6a2c70;
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+
+h1{
+    font-family: 'Maven Pro', sans-serif;
+    text-shadow: 2px 2px 5px black ;
+    color: #f08a5d;
+    font-size: 7rem;
+}
+
+.player-window{
+    display:inline-block;
+}
+
+.player-name h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #f08a5d;
+    font-size: 1.4rem;
+}
+
+.btn{
+    text-align:center;
+    text-shadow: 1px 1px 2px black ;
+    padding:10px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f9ed69;
+    color: #6a2c70;
+    width: 10%;
+    display:inline-block;
+    margin:0 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.hidden{
+    display:none;
+}
+
+#footer{
+    padding: 35px;
+    color: #f08a5d;
+}
